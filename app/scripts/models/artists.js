@@ -1,4 +1,4 @@
-RocknrollYeoman.Artist = Em.Object.extend({
+RocknrollcallYeoman.Artist = Em.Object.extend({
   id: null,
   name: null,
   enid: null,

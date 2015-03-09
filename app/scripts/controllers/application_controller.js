@@ -4,6 +4,6 @@ RocknrollcallYeoman.ApplicationController = Em.ObjectController.extend({
   actions: {
     submit: function() {
       this.transitionToRoute('search-results',this.get('searchTerms'));
+    }
   }
- }
 });
